@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dino-chrome/static/css/main.073c9b0a.css",
+    "main.js": "/dino-chrome/static/js/main.876bfba3.js",
+    "static/js/787.2011a534.chunk.js": "/dino-chrome/static/js/787.2011a534.chunk.js",
+    "static/media/logo.svg": "/dino-chrome/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dino-chrome/index.html",
+    "main.073c9b0a.css.map": "/dino-chrome/static/css/main.073c9b0a.css.map",
+    "main.876bfba3.js.map": "/dino-chrome/static/js/main.876bfba3.js.map",
+    "787.2011a534.chunk.js.map": "/dino-chrome/static/js/787.2011a534.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.876bfba3.js"
+  ]
+}
